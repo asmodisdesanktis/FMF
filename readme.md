@@ -1,1 +1,1 @@
-- Modpage images only -
+- Mod-page images only -
